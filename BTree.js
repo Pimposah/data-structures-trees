@@ -1,8 +1,8 @@
 /**
- * Nome:
- * RGA:
- * email:
- * Data de criação:
+ * Nome: Nathalia dos Santos Amaral
+ * RGA: 202005710145
+ * email: nathalia_amaral@ufms.br
+ * Data de criação: 29/06/2021
  */
 
 class Node {
